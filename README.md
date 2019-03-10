@@ -8,7 +8,7 @@
 * `sudo dfu-programmer atmega32u4 reset`
 
 ### Steps to update layout:
-* Upload `keyboard.json` file to https://config.qmk.fm
+* Upload `layout.json` file to https://config.qmk.fm
 * Edit keyboard layout
 * Build and download the firmware `.hex` file
 * Follow the steps above to upload firmware to the keyboard
