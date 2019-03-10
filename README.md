@@ -14,7 +14,7 @@
 * Follow the steps above to upload firmware to the keyboard
 
 Current layout:
-![Layer 1](https://github.com/dim1tri/keyboard/layer1.png)
-![Layer 2](https://github.com/dim1tri/keyboard/layer2.png)
-![Layer 3](https://github.com/dim1tri/keyboard/layer3.png)
+![Layer 1](https://raw.githubusercontent.com/dim1tri/keyboard/master/layer1.png)
+![Layer 2](https://raw.githubusercontent.com/dim1tri/keyboard/master/layer2.png)
+![Layer 3](https://raw.githubusercontent.com/dim1tri/keyboard/master/layer3.png)
 
